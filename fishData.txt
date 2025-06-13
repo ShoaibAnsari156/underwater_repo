@@ -1,0 +1,114 @@
+{
+  "fishData": [
+    {
+      "name": "Clownfish",
+      "description": "Bright orange with white stripes, commonly found in coral reefs. Known for their symbiotic relationship with sea anemones.",
+      "image": ""
+    },
+    {
+      "name": "Blue Tang",
+      "description": "A vibrant blue fish with a yellow tail, often found in coral reefs. Famous for its role in 'Finding Nemo'.",
+      "image": ""
+    },
+    {
+      "name": "Lionfish",
+      "description": "Venomous fish with long, spiky fins. Native to Indo-Pacific, now invasive in Atlantic reefs.",
+      "image": ""
+    },
+    {
+      "name": "Great White Shark",
+      "description": "Large predatory shark found in coastal waters across the globe. Known for its power and size.",
+      "image": ""
+    },
+    {
+      "name": "Sailfish",
+      "description": "Fastest fish in the ocean, known for its long, slender bill and sail-like dorsal fin.",
+      "image": ""
+    },
+    {
+      "name": "Mackerel",
+      "description": "Streamlined fish found in temperate and tropical seas, popular as food due to its oily flesh.",
+      "image": ""
+    },
+    {
+      "name": "Tuna",
+      "description": "Large, fast-swimming fish found in warm seas, valued both commercially and for sport fishing.",
+      "image": ""
+    },
+    {
+      "name": "Anglerfish",
+      "description": "Deep-sea fish with a bioluminescent lure to attract prey. Notable for its terrifying appearance.",
+      "image": ""
+    },
+    {
+      "name": "Moray Eel",
+      "description": "Snake-like carnivorous fish living in crevices of reefs and rocks in both shallow and deep sea.",
+      "image": ""
+    },
+    {
+      "name": "Parrotfish",
+      "description": "Colorful reef fish known for their beak-like teeth used to scrape algae from coral.",
+      "image": ""
+    },
+    {
+      "name": "Barracuda",
+      "description": "Long, predatory fish with sharp teeth, found in tropical and subtropical oceans.",
+      "image": ""
+    },
+    {
+      "name": "Flying Fish",
+      "description": "Known for their ability to glide above water to escape predators using wing-like pectoral fins.",
+      "image": ""
+    },
+    {
+      "name": "Cod",
+      "description": "Cold water fish known for its commercial importance in Europe and North America.",
+      "image": ""
+    },
+    {
+      "name": "Swordfish",
+      "description": "Large predatory fish with a long, flat bill, known for speed and sport fishing.",
+      "image": ""
+    },
+    {
+      "name": "Herring",
+      "description": "Small, oily fish that swim in large schools in the Atlantic and Pacific Oceans.",
+      "image": ""
+    },
+    {
+      "name": "Grouper",
+      "description": "Large bottom-dwelling fish often found in warm seas. Popular in commercial fishing.",
+      "image": ""
+    },
+    {
+      "name": "Snapper",
+      "description": "Found in tropical and subtropical regions, these fish are often brightly colored and reef-dwelling.",
+      "image": ""
+    },
+    {
+      "name": "Sea Bass",
+      "description": "Common name for several species found in shallow warm seas, known for their culinary value.",
+      "image": ""
+    },
+    {
+      "name": "Pufferfish",
+      "description": "Inflates its body as a defense mechanism. Some species contain deadly toxins.",
+      "image": ""
+    },
+    {
+      "name": "Tilapia",
+      "description": "Freshwater fish that can live in brackish waters. Widely farmed and consumed worldwide.",
+      "image": ""
+    },
+    {
+      "name": "Salmon",
+      "description": "Born in freshwater, migrate to sea, and return to spawn. Valued for its high Omega-3 content.",
+      "image": ""
+    },
+    {
+      "name": "Eel",
+      "description": "Long, snake-like fish found in both freshwater and marine environments. Some species migrate between them.",
+      "image": ""
+    }
+  ]
+}
