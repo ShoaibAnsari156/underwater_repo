@@ -5,7 +5,7 @@ const Home = () => {
   const [fishData, setFishData] = useState([]);
   async function getData() {
     try {
-      let response = await axios.get("http://localhost:3000/fishData");
+      let response = await axios.get("http://localhost:3001/fishData");
       setFishData(response.data);
     } catch (error) {
       console.log(error);
