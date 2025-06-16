@@ -3,17 +3,17 @@
     {
       "name": "Clownfish",
       "description": "Bright orange with white stripes, commonly found in coral reefs. Known for their symbiotic relationship with sea anemones.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Amphiprion_ocellaris_%28Clown_anemonefish%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Clown_fish_in_the_Andaman_Coral_Reef.jpg"
     },
     {
       "name": "Blue Tang",
       "description": "A vibrant blue fish with a yellow tail, often found in coral reefs. Famous for its role in 'Finding Nemo'.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Paracanthurus_hepatus_2.jpg"
+      "image": "https://images.stockcake.com/public/1/5/3/153965a4-70dc-4ec4-83d5-4e9636f30f58_large/vibrant-blue-fish-stockcake.jpg"
     },
     {
       "name": "Lionfish",
       "description": "Venomous fish with long, spiky fins. Native to Indo-Pacific, now invasive in Atlantic reefs.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Pterois_volitans.jpg"
+      "image": "https://captainhooks.com/wp-content/uploads/2024/07/lionfish-florida-keys-invasive.webp"
     },
     {
       "name": "Great White Shark",
@@ -23,92 +23,197 @@
     {
       "name": "Sailfish",
       "description": "Fastest fish in the ocean, known for its long, slender bill and sail-like dorsal fin.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Istiophorus_platypterus1.jpg"
+      "image": "https://blackfinrods.com/cdn/shop/articles/Sailfish.jpg?v=1666716428"
     },
     {
       "name": "Mackerel",
       "description": "Streamlined fish found in temperate and tropical seas, popular as food due to its oily flesh.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Scomber_scombrus_1.jpg"
+      "image": "https://zoomoverseas.com/wp-content/uploads/Indian-Mackerel42-800.jpg"
     },
     {
       "name": "Tuna",
       "description": "Large, fast-swimming fish found in warm seas, valued both commercially and for sport fishing.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Bigeye_tuna.jpg"
+      "image": "https://thesra.org/media/ykfhou04/ray-harrington-ak8dfjswcke-unsplash.jpg?width=1100&height=825&format=webp&quality=70&v=1db08e62aa75030"
     },
     {
       "name": "Anglerfish",
       "description": "Deep-sea fish with a bioluminescent lure to attract prey. Notable for its terrifying appearance.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Anglerfish.jpg"
+      "image": "https://ohmyfacts.com/wp-content/uploads/2024/10/26-facts-about-anglerfish-1728487213.jpg"
     },
     {
       "name": "Moray Eel",
       "description": "Snake-like carnivorous fish living in crevices of reefs and rocks in both shallow and deep sea.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Moray_eel.jpg"
+      "image": "https://www.seattleaquarium.org/wp-content/uploads/2024/06/Moray-eel-3.jpg"
     },
     {
       "name": "Parrotfish",
       "description": "Colorful reef fish known for their beak-like teeth used to scrape algae from coral.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Parrotfish.jpg"
+      "image": "https://newscenter.lbl.gov/wp-content/uploads/2017/11/steephead-parrotfish-chlorurus-microrhinos-parrotfishes-scaridae_4187.jpg"
     },
     {
       "name": "Barracuda",
       "description": "Long, predatory fish with sharp teeth, found in tropical and subtropical oceans.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Sphyraena_barracuda.jpg"
+      "image": "https://www.fishi-pedia.com/wp-content/uploads/2019/06/baracuda.jpg"
     },
     {
       "name": "Flying Fish",
       "description": "Known for their ability to glide above water to escape predators using wing-like pectoral fins.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Eicosidodon_pectoralis.jpg"
+      "image": "https://pbs.twimg.com/media/FzpClX4WAAYvXcU?format=jpg&name=4096x4096"
     },
     {
       "name": "Cod",
       "description": "Cold water fish known for its commercial importance in Europe and North America.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Gadus_morhua.jpg"
+      "image": "https://www.thefisherman.com/wp-content/uploads/2019/04/2019-2-profiling-the-atlantic-cod-cod.jpg"
     },
     {
       "name": "Swordfish",
       "description": "Large predatory fish with a long, flat bill, known for speed and sport fishing.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Xiphias_gladius.jpg"
+      "image": "https://www.seachoice.org/wp-content/uploads/2018/01/Pierre-Jaquet-pico_summer_2013__639_big-1024x683.jpg"
     },
     {
       "name": "Herring",
       "description": "Small, oily fish that swim in large schools in the Atlantic and Pacific Oceans.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Clupea_harengus.jpg"
+      "image": "https://a-z-animals.com/media/herring-1.jpg"
     },
     {
       "name": "Grouper",
       "description": "Large bottom-dwelling fish often found in warm seas. Popular in commercial fishing.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Epinephelus_striatus.jpg"
+      "image": "https://www.bristolaquarium.co.uk/wp-content/uploads/2024/08/iStock-108202598-1.jpg"
     },
     {
       "name": "Snapper",
       "description": "Found in tropical and subtropical regions, these fish are often brightly colored and reef-dwelling.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Lutjanus_argentimaculatus.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Lutjanus_buccanella_SI.jpg"
     },
     {
       "name": "Sea Bass",
       "description": "Common name for several species found in shallow warm seas, known for their culinary value.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/European_seabass.jpg"
+      "image": "https://www.aquariumbcn.com/wp-content/uploads/2022/08/Dicentrarchus-labrax.jpg"
     },
     {
       "name": "Pufferfish",
       "description": "Inflates its body as a defense mechanism. Some species contain deadly toxins.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Tetraodon_nigroviridis.jpg"
+      "image": "https://i.pinimg.com/736x/1b/87/28/1b872849f7f5a8805161ded89701b2ff.jpg"
     },
     {
       "name": "Tilapia",
       "description": "Freshwater fish that can live in brackish waters. Widely farmed and consumed worldwide.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Oreochromis_niloticus_juvenile.jpg"
+      "image": "https://www.balisafarimarinepark.com/wp-content/uploads/2022/11/tilapia-e1645622421681.jpg"
     },
     {
       "name": "Salmon",
       "description": "Born in freshwater, migrate to sea, and return to spawn. Valued for its high Omega-3 content.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Salmo_salar1.jpg"
+      "image": "https://images.contentstack.io/v3/assets/bltcedd8dbd5891265b/bltf29b7f16887bf9e8/664cbcd90eb7852a00936f49/AdobeStock_227986733.jpg?q=70&width=3840&auto=webp"
     },
     {
       "name": "Eel",
       "description": "Long, snake-like fish found in both freshwater and marine environments. Some species migrate between them.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Anguilla_anguilla.jpg"
+      "image": "https://theecologist.org/sites/default/files/styles/inline_l/public/2019-06/european-eel-anguilla-ang-010.jpg?itok=lp8fR9Gt"
+    },
+    {
+      "name": "Hammerhead Shark",
+      "description": "Recognized by its unique hammer-shaped head; found in warm ocean waters.",
+      "image": "https://www.sharksandrays.com/wp-content/uploads/2020/09/Great-Hammerhead-Shark-242.jpg"
+    },
+    {
+      "name": "Tiger Shark",
+      "description": "A large shark with stripes along its body, known for eating a wide variety of prey.",
+      "image": "https://i0.wp.com/www.australiangeographic.com.au/wp-content/uploads/2023/07/shutterstock_2263403737-scaled.jpg?fit=1800%2C1510&ssl=1"
+    },
+    {
+      "name": "Bull Shark",
+      "description": "Aggressive and can live in both salt and freshwater; often found in rivers and shallow waters.",
+      "image": "https://www.mexicobluedream.com/wp-content/uploads/2022/08/Dune-17.jpg"
+    },
+    {
+      "name": "Mako Shark",
+      "description": "Fastest species of shark; known for its speed and agility in the water.",
+      "image": "https://ecori.org/wp-content/uploads/2022/07/Mako.jpg"
+    },
+    {
+      "name": "Thresher Shark",
+      "description": "Distinguished by its long, whip-like tail used to stun prey.",
+      "image": "https://earth.org/wp-content/uploads/2021/10/Untitled-design-41.jpg"
+    },
+    {
+      "name": "Nurse Shark",
+      "description": "Generally slow-moving and docile; often seen resting on the sea floor.",
+      "image": "https://www.seadwelling.com/cdn/shop/products/NurseSharkFSHNU700AT.jpg?v=1664562441"
+    },
+    {
+      "name": "Whale Shark",
+      "description": "The largest known shark and fish species; a gentle giant that feeds on plankton.",
+      "image": "https://imgproxy.natucate.com/vshtGQfhq_yecoMT80P01LqoAjqSF7T4Q91RxKsFrug/rs:fill/g:ce/w:1780/h:1001/aHR0cHM6Ly93d3cubmF0dWNhdGUuY29tL21lZGlhL3BhZ2VzL2Jsb2cvd2lzc2VuL2UyZTQ0ZDA4LWQ3YWUtNGVlOS1hY2Q4LTFjMzU3NGU0Y2I1ZS83NzVmMmQ4ODJmLTE2Nzk0ODU1OTQvd2FsaGFpLWZha3Rlbi13aXNzZW4tYmxvZy1uYXR1Y2F0ZS5qcGc"
+    },
+    {
+      "name": "Goblin Shark",
+      "description": "A rare deep-sea shark with a long, flat snout and protruding jaws.",
+      "image": "https://res.cloudinary.com/dr0zfbman/images/f_auto,q_auto:good/v1744261259/WordPress%20Content/Goblin-shark/Goblin-shark.jpg?_i=AA"
+    },
+    {
+      "name": "Basking Shark",
+      "description": "The second-largest living shark; filter-feeder like the whale shark.",
+      "image": "https://www.scotlink.org/wp-content/uploads/2017/03/BASKING-SHARK-1Alex-mustard-2020-vision.jpg.jpg"
+    },
+    {
+      "name": "Blacktip Shark",
+      "description": "Commonly found in coastal tropical and subtropical waters; named for black tips on fins.",
+      "image": "https://www.montereybayaquarium.org/globalassets/mba/images/animals/fishes/blacktip-reef-shark-rw04-167.jpg?format=jpeg&quality=60"
+    },
+    {
+      "name": "Blue Shark",
+      "description": "Sleek, fast swimmer with a distinct blue coloration; found in deep waters.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Prionace_glauca_1.jpg"
+    },
+    {
+      "name": "Sand Tiger Shark",
+      "description": "Has a fearsome appearance with protruding teeth, but is generally not aggressive.",
+      "image": "https://www.aquariumofpacific.org/images/made_new/images-blog_uploads-AOP-Sand-Tiger-Blog_03_600_q85.jpg"
+    },
+    {
+      "name": "Lemon Shark",
+      "description": "Named for its yellow-brown coloring; often found in shallow coastal waters.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Lemonshark.JPG"
+    },
+    {
+      "name": "Port Jackson Shark",
+      "description": "A bottom-dwelling shark from Australia, recognized by its harness-like markings.",
+      "image": "https://lh5.googleusercontent.com/proxy/HWoMspE_IkNT8RlytaW4dQ4bB-dKjsHPzRHcuZJfhM7l7dTl4_rqn_yfPf5qJjjs875LVYlJRj_V4hML3G5E9wBbn-NN1E3jD0M4V9TrZ2HPY47EHlgaPvht8E_1Cw"
+    },
+    {
+      "name": "Cookiecutter Shark",
+      "description": "Small deep-sea shark that gouges round plugs of flesh from larger animals.",
+      "image": "https://images.squarespace-cdn.com/content/v1/5bae466429f2cc29475d636e/1550295078798-U3R7ABTOLJQGN5ZNKJQK/cookiecutter-shark-isistius-brasiliensis.jpg"
+    },
+    {
+      "name": "Greenland Shark",
+      "description": "Lives in the cold deep waters of the North Atlantic; extremely slow-growing and long-lived.",
+      "image": "https://i.pinimg.com/736x/15/cc/2a/15cc2afad41e7001161d1ccd9e6a9adc.jpg"
+    },
+    {
+      "name": "Wobbegong",
+      "description": "A type of carpet shark with a flattened body and ornate patterns for camouflage.",
+      "image": "https://www.georgiaaquarium.org/wp-content/uploads/2018/09/spotted-wobbegong-4.jpg"
+    },
+    {
+      "name": "Zebra Shark",
+      "description": "Has stripes when young that turn into spots as it matures; found in Indo-Pacific reefs.",
+      "image": "https://shedd-production.imgix.net/srvHMsnE8cPyDvFm43dk7PkL?ixlib=rails-2.1.4&fit=crop&auto=format%2Ccompress&w=1200&h=630"
+    },
+    {
+      "name": "Frilled Shark",
+      "description": "An ancient, eel-like shark with frilly gills; rarely seen due to deep-sea habitat.",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/201501/fshark%2B_650_012215115454.jpg?VersionId=wU5M5jH0e60xOCClIX1fr0oyWkYd_gVG"
+    },
+    {
+      "name": "Sawshark",
+      "description": "Characterized by a long snout edged with teeth, resembling a saw.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Sawfish_Pristis_zijsron_Genova_Aquarium.jpg"
+    },
+    {
+      "name": "Angel Shark",
+      "description": "Flattened body similar to a ray; hides in sand and ambushes prey.",
+      "image": "https://scubadiverlife.com/wp-content/uploads/2011/04/Screen-shot-2011-04-20-at-2.47.39-PM.png"
     }
   ]
 }
